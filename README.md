@@ -2,7 +2,7 @@
 - 👀 I’m not interested in ...anywhere before now
 - 🌱 I’m currently learning javase
 - 💞️ I’m looking to collaborate on ...learning ,
-- 📫 How to reach me ...e-mail - amosleo@gmail.com
+- 📫 How to reach me ...e-mail - amosparden@gmail.com
 
 <!---
 nmsl8848/nmsl8848 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
